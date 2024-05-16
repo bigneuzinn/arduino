@@ -1,0 +1,29 @@
+.center{font-size: 35px; 
+    font-family: "Outfit", sans-serif;
+}
+
+.botao{padding: 30px;
+   border-radius: 30px;
+   color: white;
+   background-color: #fdfdfd; 
+   opacity: 60%;  
+   transition: 0.4s;  
+   font-family: "Outfit", 
+   sans-serif;
+}
+
+body{
+    background: linear-gradient(90deg,#062af5, #90c7f3);  
+}
+
+.seta{
+    width: 70px;
+}
+
+.clique {
+    font-size: 40px;
+}
+
+.numero {
+    font-size: 35px;
+}
